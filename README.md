@@ -7,7 +7,7 @@
   My first NetName is 'vulcan08', but somehow it became 'vulcan09' :satisfied:. <br/>
 -->
 
- - A H5Coder Rookie :v:; In fact, it is my self-study foundation is not solid enough :joy:	.
+ - Here is a H5Coder Rookie :v:; In fact, it is my self-study foundation is not solid enough :joy:	.
  - Currently studying 'TypeScript' :flushed: cheer :stuck_out_tongue_winking_eye:!
   
 
